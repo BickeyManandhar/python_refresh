@@ -1,0 +1,2 @@
+Hello, this is a write demo file.
+This file is created using Python.

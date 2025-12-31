@@ -1,0 +1,1 @@
+Hello this is demo for text file I/O
